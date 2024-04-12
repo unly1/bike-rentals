@@ -14,7 +14,7 @@ Configurações básica | Basic settings:
 # Task type & data: 
 Selecionar tipo de tarefa: Regressão | Select task type: Regression
 
-3 - ![3 - Tipo de Tarefa e dados](https://github.com/unly1/bike-rentals/assets/92002986/5d8b9f10-839e-4bdd-a92e-5d5c9644675b)
+![3 - Tipo de Tarefa e dados](https://github.com/unly1/bike-rentals/assets/92002986/5d8b9f10-839e-4bdd-a92e-5d5c9644675b)
 
 # Task type & data
 
@@ -24,6 +24,8 @@ Selecionar tipo de tarefa: Regressão | Select task type: Regression
 
 # Data source | From web files
 Web URL: https://aka.ms/bike-rentals
+
+Tipos de dados
 
 ![5 - Schema](https://github.com/unly1/bike-rentals/assets/92002986/0f98ddc3-d01d-4faf-9383-6863a701fbb0)
 
@@ -52,11 +54,15 @@ Web URL: https://aka.ms/bike-rentals
 ![13 1 - Endpoints](https://github.com/unly1/bike-rentals/assets/92002986/cc9b6e54-fa96-47b8-a8b2-1003399de644)
 ![14 - Testar](https://github.com/unly1/bike-rentals/assets/92002986/fc085026-51df-41a7-94d1-9348c63bb00e)
 Acessei a página do modelo e cliquei na aba 'Pontos de extremidade'. Também é possível acessar através do menu lateral em 'Pontos de extremidade'. Selecionei o ponto correspondente ao modelo gerado e, em seguida, cliquei na aba 'Testar'
-![15 - Resultado - aluguel]bike-rentals/assets/92002986/2b716e50-a9fb-4722-9d23-e8c8fc742f40)
+
+![15 - Resultado - aluguel](https://github.com/unly1/bike-rentals/assets/92002986/ac41d64e-b634-4369-b488-de9f529c5bcc)
+
 # Conclusão
 Apos a realização do meu teste 
 
-(https://github.com/unly1/bi[test_ml_automatizado.json](https://github.com/unly1/bike-rentals/files/14963852/test_ml_automatizado.json)
+Download >> (https://github.com/unly1/bi[test_ml_automatizado.json](https://github.com/unly1/bike-rentals/files/14963852/test_ml_automatizado.json)
+
+![image](https://github.com/unly1/bike-rentals/assets/92002986/72a06f75-7095-440e-855a-a9d2ef4ccf9a)
 
 O resultado da previsão foi
 
