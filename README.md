@@ -55,6 +55,9 @@ Acessei a página do modelo e cliquei na aba 'Pontos de extremidade'. Também é
 ![15 - Resultado - aluguel]bike-rentals/assets/92002986/2b716e50-a9fb-4722-9d23-e8c8fc742f40)
 # Conclusão
 Apos a realização do meu teste 
+
 (https://github.com/unly1/bi[test_ml_automatizado.json](https://github.com/unly1/bike-rentals/files/14963852/test_ml_automatizado.json)
+
 O resultado da previsão foi
+
 ![resultado](https://github.com/unly1/bike-rentals/assets/92002986/bf86c986-0891-4866-9f7e-91a39e0bff39)
